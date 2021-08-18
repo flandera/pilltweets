@@ -108,6 +108,9 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/voku/portable-ascii" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/sven/artisan-view" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/atymic/tmhoauth" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/atymic/twitter" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
